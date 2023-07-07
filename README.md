@@ -5,7 +5,7 @@ Installation
 Follow these steps to set up the project locally:
 
 Clone the repository:
-git clone https://github.com/your-username/daily-blog-web-app.git
+git clone https://github.com/Sukalp-Rathore/daily-blog-web-app.git
 
 Navigate to the project directory:
 cd daily-blog-web-app
